@@ -1,0 +1,21 @@
+#tittle{
+    color: rgb(184, 49, 0);
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Arvo", cursive;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    text-shadow: 6px 0 #270000;
+}
+body{
+    background-color: rgb(252, 231, 231) ;
+    text-align: center;
+}
+footer {
+    color: #330101;
+    font-family: cursive;
+    font-size: 2rem;
+}
+.set {
+    margin: 10% auto;
+  }
